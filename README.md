@@ -57,7 +57,7 @@ ExpoViewHelperは、ユーザーのプライバシーを最優先に考えて設
 
 アプリに関するご質問やフィードバックがございましたら、お気軽にお問い合わせください：
 
-**Email**: masato.n.0321@gmail.com
+**Email**: masato.n.system.0321@gmail.com
 
 ## 🔄 更新履歴
 
